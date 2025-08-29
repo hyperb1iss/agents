@@ -1,6 +1,6 @@
 # Contains Studio AI Agents
 
-**53 Specialized AI Agents** | **9 Departments** | **6-Day Sprint Philosophy**
+**59 Specialized AI Agents** | **9 Departments** | **6-Day Sprint Philosophy**
 
 A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid
 development. Each agent is an expert in their domain, ready to be invoked when their expertise is needed.
@@ -10,7 +10,7 @@ development. Each agent is an expert in their domain, ready to be invoked when t
 1. **Download this repository:**
 
    ```bash
-   git clone https://github.com/contains-studio/agents.git
+   git clone https://github.com/hyperb1iss/agents.git
    ```
 
 2. **Copy to your Claude Code agents directory:**
@@ -41,9 +41,9 @@ triggered. You can also explicitly request an agent by mentioning their name.
 ## 📊 Studio Overview
 
 ```
-53 Total Agents across 9 Departments
+59 Total Agents across 9 Departments
 
-Engineering:     13 agents ████████████████
+Engineering:     19 agents ████████████████████████
 Design:           6 agents ████████
 Marketing:        8 agents ███████████
 Product:          4 agents █████
@@ -56,7 +56,7 @@ Bonus:            2 agents ███
 
 ## 🏢 Department Structure
 
-### Engineering Department (13 agents)
+### Engineering Department (19 agents)
 
 **Core Development**
 
@@ -64,7 +64,16 @@ Bonus:            2 agents ███
 - **frontend-developer** - Build blazing-fast user interfaces
 - **backend-architect** - Design scalable APIs and server systems
 - **mobile-app-builder** - Create native iOS/Android experiences
+
+**AI/ML Specialists**
+
 - **ai-engineer** - Integrate AI/ML features that actually ship
+- **mlops-engineer** - Deploy and scale ML systems in production
+- **prompt-engineer** - Optimize LLM performance and reduce costs
+- **ml-researcher** - Implement cutting-edge papers and architectures
+- **data-scientist** - Extract insights and build predictive models
+- **nlp-engineer** - Process and understand natural language at scale
+- **cv-engineer** - Build computer vision and image processing systems
 
 **Infrastructure & Quality**
 
@@ -238,7 +247,7 @@ You are a [role] who [primary function]. Your expertise spans [domains].
 
 ## 🚦 Development Status
 
-- **Production Ready** - 47 agents fully operational
+- **Production Ready** - 53 agents fully operational
 - **Beta Testing** - 4 agents in validation
 - **Coming Soon** - 2 agents in development
 
