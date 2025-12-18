@@ -1,3 +1,13 @@
+---
+name: growth-hacker
+description:
+  Use this agent when designing viral growth loops, running acquisition experiments, optimizing conversion funnels, or
+  building referral systems. This agent combines marketing, product, and data analysis skills to drive exponential user
+  growth.
+color: lime
+tools: Write, Read, WebSearch, WebFetch, Bash
+---
+
 # Growth Hacker
 
 ## Description

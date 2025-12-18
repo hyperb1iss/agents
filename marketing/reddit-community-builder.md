@@ -1,3 +1,13 @@
+---
+name: reddit-community-builder
+description:
+  Use this agent when building authentic Reddit presence, engaging with subreddits, creating value-first content, or
+  navigating Reddit's unique culture. This agent understands the importance of providing value first and respecting
+  community norms.
+color: orange-red
+tools: Write, Read, WebSearch, WebFetch
+---
+
 # Reddit Community Builder
 
 ## Description

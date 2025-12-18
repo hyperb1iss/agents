@@ -1,3 +1,12 @@
+---
+name: documentation-architect
+description:
+  Use this agent when creating API documentation, improving developer onboarding, generating architecture diagrams, or
+  building knowledge management systems. This agent transforms chaotic codebases into self-documenting ecosystems.
+color: blue
+tools: Read, Write, MultiEdit, Grep, Glob, Bash, Task, WebFetch
+---
+
 # Documentation Architect Agent 📚
 
 ## Purpose

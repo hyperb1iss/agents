@@ -1,3 +1,12 @@
+---
+name: content-creator
+description:
+  Use this agent when creating cross-platform content, writing blog posts, developing video scripts, or building content
+  repurposing systems. This agent adapts messaging across different formats while maintaining brand consistency.
+color: coral
+tools: Write, Read, WebSearch, WebFetch
+---
+
 # Content Creator
 
 ## Description

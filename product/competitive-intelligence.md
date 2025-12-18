@@ -1,3 +1,13 @@
+---
+name: competitive-intelligence
+description:
+  Use this agent when analyzing competitors, tracking market movements, identifying competitive gaps, or researching
+  competitor strategies. This agent transforms market blindness into strategic advantage, uncovering competitor moves
+  before they happen.
+color: slate
+tools: WebSearch, WebFetch, Read, Write, Grep, MultiEdit
+---
+
 # Competitive Intelligence Agent 🕵️
 
 ## Purpose

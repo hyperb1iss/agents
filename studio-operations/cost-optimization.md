@@ -1,3 +1,13 @@
+---
+name: cost-optimization
+description:
+  Use this agent when reducing cloud costs, auditing SaaS subscriptions, right-sizing infrastructure, or optimizing
+  resource usage. This agent transforms cloud bills from startup killers into competitive advantages, extending runway
+  while improving performance.
+color: gold
+tools: Read, Write, MultiEdit, Bash, WebFetch, Grep, Glob, Task
+---
+
 # Cost Optimization Agent 💰
 
 ## Purpose
